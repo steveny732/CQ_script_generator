@@ -1,0 +1,9 @@
+*.3dshapes
+check-log.md
+build_log.txt
+build-log.md
+*.step
+*.ste
+*.pyc
+*.zip
+*.gz
